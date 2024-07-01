@@ -8,6 +8,12 @@
       "default",
       {
         "meta-refresh": "off"
+      },
+      {
+        "process": "off"
+      },
+      {
+        "http2": "off"
       }
     ]
   }
